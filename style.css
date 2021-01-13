@@ -1,0 +1,58 @@
+.navbar-brand img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.custom-menubar ul li a{
+    font-size: 17px;
+    font-weight: 500;
+    padding: 0 40px;
+    margin: 0 20px;
+    color: black;
+}
+.header-h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    color: #FA804C;
+}
+.custom-color{
+    color: #363958;
+}
+.buy-now{
+    color: white !important;
+    background-color: blue !important;
+}
+.section-title{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    color:  #363958;
+}
+
+section{
+    margin-top: 150px;
+}
+.card img{
+    width: 311px;
+    height: 311px;
+}
+
+.price{
+    color: #FA804C;
+    font-weight: 700;
+}
+
+.custom-card{
+    border: 0 !important;
+}
+.descriptional-css img{
+    width: 78px;
+    height: 82px;
+    margin-top: 30px;
+}
+.description{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.custom-card-title{
+    color: #363958 !important;
+    font-weight: 700;
+}
