@@ -56,3 +56,16 @@ section{
     color: #363958 !important;
     font-weight: 700;
 }
+#subscription-area .container{
+    height: 500px;
+    border-radius: 20px;
+}
+
+.subscription-field{
+    margin-top: 50px;
+}
+
+.custom-footer a{
+    text-decoration: none;
+    color: white;
+}
